@@ -1,0 +1,2 @@
+Class-Path: . ./data/* ./data/* ./data/lib/commons-net-3.3.jar ./data/edit_data/name_database_file.sql
+Main-Class: com.execute.Main
